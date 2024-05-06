@@ -1,0 +1,3 @@
+Heyy Everyone!!! tripzip is an informative tourism website which features and showcases various destinations across the globe. It is not an finished project but you can definitely used in your academics as it includes features of Booking and chatbot to guide through your Vacation Planning. 
+Steps: 1. Open index.html on your device's browser. 2.All the files and code is interlink to each other make sure you have all the files downloaded on your device
+Thank You! Enjoy.....
